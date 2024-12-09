@@ -1,16 +1,16 @@
-## Hi there 👋
+# ("Hello, world! Me chamo Gabriela"); 👋
 
-<!--
-**gabrielapaliuco/gabrielapaliuco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mim:
+### Tenho 19 anos, atualmente curso Ciência da Computação, e estou no meu primeiro estágio aprendendo um pouco de tudo. 
+### "Quanto mais aprendo mais sei que nada sei"
 
-Here are some ideas to get you started:
+## Tenho conhecimento:
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg"  width="40" height="40"  /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40" />
+                              
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Estou aprendendo:
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40" height="40" />
+
+ ## Por enquanto é isso :)
+<img src= "https://github.com/user-attachments/assets/a3d99253-b42b-4b56-9ac6-af40a7b3ae38" width="120" height="120" />
+
